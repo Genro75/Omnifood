@@ -1,4 +1,4 @@
-$(Document).read(
+$(document).ready(
     function(){
         $('.js--section-features').waypoint(
             function(direction){
